@@ -1,7 +1,9 @@
 #!/usr/bin/python
 
 #
-#	Test communicating with UPiS from Rasplex
+#	Get power status from UPiS from Rasplex
+#	John Wells, 2014
+#	Licence: GPL v3
 #
 
 import serial
